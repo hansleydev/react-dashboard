@@ -1,1 +1,1 @@
-# React Starter App
+# React Dashboard/Real-Time Messaging App
