@@ -1,7 +1,6 @@
 node_modules
 npm-debug.log
-src/settings
-.eslintrc
+dist
 Dockerfile
 docker-compose.yml
 docker-compose.debug.yml
@@ -9,4 +8,3 @@ docker-compose.debug.yml
 .vscode
 .env
 .deployment
-.eslintrc

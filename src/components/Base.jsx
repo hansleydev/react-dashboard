@@ -1,12 +1,11 @@
 // ------------------- Import Required Modules -------------------
 
-import React, { useReducer } from "react";
+import React from "react";
 import PropTypes from "prop-types";
 
 // ------------------- Import Material UI Components -------------------
 
-import { Paper, Snackbar } from "@material-ui/core";
-import { Alert } from "@material-ui/lab";
+import { Paper } from "@material-ui/core";
 
 // ------------------- Import Custom Components -------------------
 
